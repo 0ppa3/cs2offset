@@ -42,4 +42,15 @@
     "dwViewMatrix": 31597232,
     "dwViewRender": 31600848,
     "dwWeaponC4": 31193456
+    "dwBuildNumber": 6206420,
+    "dwNetworkGameClient": 6202608,
+    "dwNetworkGameClient_clientTickCount": 856,
+    "dwNetworkGameClient_deltaTick": 572,
+    "dwNetworkGameClient_isBackgroundMap": 2888751,
+    "dwNetworkGameClient_localPlayer": 232,
+    "dwNetworkGameClient_maxClients": 560,
+    "dwNetworkGameClient_serverTickCount": 572,
+    "dwNetworkGameClient_signOnState": 544,
+    "dwWindowHeight": 9344636,
+    "dwWindowWidth": 9344632
 }
