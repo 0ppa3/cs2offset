@@ -24,5 +24,22 @@
     "m_vecAbsOrigin": 208,
     "dwLocalPlayerController": 31516040,
     "m_hController": 5584,
-    "m_iszPlayerName": 1768
+    "m_iszPlayerName": 1768,
+    "dwCSGOInput": 31639312,
+    "dwEntityList": 30430296,
+    "dwGameEntitySystem": 33187304,
+    "dwGameEntitySystem_highestEntityIndex": 8432,
+    "dwGameRules": 31593800,
+    "dwGlobalVars": 29188432,
+    "dwGlowManager": 31581160,
+    "dwLocalPlayerController": 31516040,
+    "dwLocalPlayerPawn": 29232784,
+    "dwPlantedC4": 31619504,
+    "dwPrediction": 29232576,
+    "dwSensitivity": 31583816,
+    "dwSensitivity_sensitivity": 72,
+    "dwViewAngles": 31641280,
+    "dwViewMatrix": 31597232,
+    "dwViewRender": 31600848,
+    "dwWeaponC4": 31193456
 }
