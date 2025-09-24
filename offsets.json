@@ -41,7 +41,7 @@
     "dwViewAngles": 31641280,
     "dwViewMatrix": 31597232,
     "dwViewRender": 31600848,
-    "dwWeaponC4": 31193456
+    "dwWeaponC4": 31193456,
     "dwBuildNumber": 6206420,
     "dwNetworkGameClient": 6202608,
     "dwNetworkGameClient_clientTickCount": 856,
@@ -52,5 +52,21 @@
     "dwNetworkGameClient_serverTickCount": 572,
     "dwNetworkGameClient_signOnState": 544,
     "dwWindowHeight": 9344636,
-    "dwWindowWidth": 9344632
+    "dwWindowWidth": 9344632,
+    "attack": 29205264,
+    "attack2": 29205408,
+    "back": 29205984,
+    "duck": 29206704,
+    "forward": 29205840,
+    "jump": 29206560,
+    "left": 29206128,
+    "lookatweapon": 31639088,
+    "reload": 29205120,
+    "right": 29206272,
+    "showscores": 31638800,
+    "sprint": 29204976,
+    "turnleft": 29205552,
+    "turnright": 29205696,
+    "use": 29206416,
+    "zoom": 31638944
 }
